@@ -174,7 +174,7 @@ This project implements concepts from:
 
 ## Authors
 
-ENEE662 Students, University of Maryland, College Park
+Hassan Jafari Ozoumchelooei, M. Semih Akkoc, Sardor Umarov, University of Maryland, College Park
 
 ## License
 
